@@ -1,2 +1,3 @@
-# KJV-Bible-App
-A mobile app for reading the King James Version of the Bible
+# KJV Bible App
+
+A series of apps for reading the KJV version of the holy bible.
